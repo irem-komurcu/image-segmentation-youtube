@@ -10,7 +10,10 @@ Anlatım sırasında kullanılan sunum ve anlatım <b> Görüntü Segmentasyonu 
   <li>Segmentasyon örnekleri</li>
   <li>Segmentasyon ve IoU score</li> 
 </ul>  
+
 başlıklarını içermektedir. 
+
+![Youtube Thumbnail](https://github.com/irem-komurcu/image-segmentation-youtube/blob/main/youtube_thumbnail.jpg)
 
 Konu anlatımının bulunduğu Youtube videosuna <a href="https://www.youtube.com/watch?v=aUHoDeo3DFg&list=PLk54I7lqQSsbpShjcv3upA5LwMqyV9p27&index=4&ab_channel=MertCobanov">buradan</a> ulaşabilirsiniz. <br>
 
