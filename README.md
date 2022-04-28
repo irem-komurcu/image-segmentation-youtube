@@ -1,6 +1,9 @@
-# image-segmentation-youtube
+# Deep Learning and Computer Vision 
+### Image Segmentation YouTube
 
-Bu repo Turk Gelistirici Egitimleri Arsivi için hazırlanmış ve yaklaşık 1 saatlik anlatımımın kaynaklarını içermektedir. 
+Bu repo, Youtube canlı yayınlarında <b> Deep Learning ve Computer Vision </b> konularında anlatımı desteklemek ve kullanılmak üzere hazırlanmıştır. 
+
+Aynı zamanda Turk Gelistirici Egitimleri Arsivi için çekilen ve yaklaşık 1 saatlik anlatımımın kaynaklarını da içermektedir. 
 Anlatım sırasında kullanılan sunum ve anlatım <b> Görüntü Segmentasyonu </b> konusunda;<br> 
 <ul>
   <li>Pixel kavramı ve renk kanalları</li>
