@@ -15,6 +15,6 @@ Anlatım sırasında kullanılan sunum ve anlatım <b> Görüntü Segmentasyonu 
 </ul>  
 başlıklarını içermektedir. 
 
-Anlatım sırasında kullanılan sunum <a href="https://github.com/irem-komurcu/image-segmentation-youtube/blob/main/image_segmentation_presentation.pdf">repo içerisinde</a> bulunmaktadır. 
+Anlatım sırasında kullanılan sunum <a href="https://github.com/irem-komurcu/image-segmentation-youtube/blob/main/Go%CC%88ru%CC%88ntu%CC%88%20Segmentasyonu.pdf">repo içerisinde</a> bulunmaktadır. 
 
 Anlatım sırasında kullanılan örnek <a href="https://github.com/qubvel/segmentation_models">qubvel/segmentation_models reposundan</a> kullanılmıştır. 
